@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AndreaTrabucchi.github.io/Lubrificanti-Vanguard-MOLYguard/sitemap.xml
